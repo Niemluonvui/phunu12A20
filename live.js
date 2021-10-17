@@ -16,4 +16,4 @@ setTimeout(function(){
             arrow.style.opacity = '1';
         },3000);
     },500);
-},5000);
+},10000);
